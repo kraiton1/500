@@ -18,23 +18,23 @@
         "display2Font": "Roboto",
         "display2Size": "3.4",
         "display5Font": "Roboto Slab",
-        "display5Size": "1.4",
+        "display5Size": "2",
         "display7Font": "Lora",
         "display7Size": "1.2",
         "display4Font": "Roboto Slab",
         "display4Size": "1.2",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#0bffc4",
         "#08650d",
         "#f189a3",
         "#072cf6",
         "#fcff03",
         "#ff0909",
-        "#08ff82",
-        "#0a28f7"
+        "#08ff82"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -94,7 +94,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#08ff82"
+              "color": "#0bffc4"
             },
             ".formoid": {
               "margin": "auto"
